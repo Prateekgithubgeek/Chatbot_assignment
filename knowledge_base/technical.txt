@@ -1,0 +1,151 @@
+TECHNICAL SUPPORT FAQ
+
+Q: The application is running very slowly. What should I do?
+A: Slow performance can have several causes. First, check your internet connection speed. Clear your browser cache and cookies. Close unnecessary browser tabs and applications. If using the desktop app, try restarting it. Check if there are pending updates. If issues persist, contact support with your system specifications.
+
+Q: I'm getting an error message when trying to login. Help!
+A: Common login errors and solutions:
+- "Invalid credentials": Double-check username and password. Use "Forgot Password" if needed.
+- "Account locked": Too many failed attempts. Wait 30 minutes or contact support.
+- "Server error": Temporary issue, try again in a few minutes.
+- Clear browser cache and cookies, then try again.
+- Try a different browser or incognito mode.
+- Disable browser extensions temporarily.
+
+Q: How do I install the desktop application?
+A: Download the installer from our website (support.com/downloads). Choose your operating system (Windows, Mac, or Linux). Run the installer and follow on-screen instructions. Default installation takes 2-3 minutes. Launch the app and sign in with your credentials. First-time setup wizard will guide you through initial configuration.
+
+Q: The app keeps crashing. What's wrong?
+A: App crashes can be caused by:
+1. Outdated app version - Update to the latest version
+2. Corrupted installation - Uninstall and reinstall
+3. Insufficient memory - Close other applications
+4. Conflicting software - Check antivirus/firewall settings
+5. Corrupted cache - Clear app cache from Settings
+
+To clear cache: Settings > Advanced > Clear Cache
+To reinstall: Uninstall completely, restart computer, download fresh installer
+
+Q: Files are not syncing properly. How do I fix this?
+A: Sync issues troubleshooting:
+- Check internet connection stability
+- Verify sufficient storage space (local and cloud)
+- Ensure app is running and logged in
+- Check sync settings: Settings > Sync > Verify folders
+- Pause and resume sync from system tray icon
+- For selective sync: Settings > Sync > Choose folders
+- Force sync: Right-click file > Force Sync Now
+
+If specific files won't sync, they may exceed size limits (5GB per file) or have invalid characters in filename.
+
+Q: How do I update the application?
+A: Desktop apps auto-update by default. Manual update: Help > Check for Updates. Mobile apps update through app stores (Apple App Store or Google Play Store). Web version updates automatically, refresh your browser. We recommend enabling auto-updates for latest features and security patches.
+
+Q: I can't access the application from my mobile device.
+A: Mobile troubleshooting:
+- Verify you have the latest app version from app store
+- Check device OS compatibility (iOS 13+ or Android 8+)
+- Ensure stable internet connection (WiFi or cellular data)
+- Force close and reopen the app
+- Try logging out and back in
+- Check if mobile access is enabled in your plan
+- Uninstall and reinstall if issues persist
+
+Q: What are the system requirements?
+A: 
+Desktop Requirements:
+- Windows 10/11, macOS 10.14+, or Ubuntu 18.04+
+- 4GB RAM minimum (8GB recommended)
+- 500MB free disk space for installation
+- Broadband internet connection (5 Mbps+)
+- Modern browser: Chrome 90+, Firefox 88+, Safari 14+, Edge 90+
+
+Mobile Requirements:
+- iOS 13.0 or later / Android 8.0 or later
+- 100MB free storage
+- Active internet connection
+
+Q: How do I enable two-factor authentication?
+A: Enable 2FA for enhanced security:
+1. Log in to your account
+2. Go to Settings > Security > Two-Factor Authentication
+3. Click "Enable 2FA"
+4. Choose method: Authenticator app (recommended) or SMS
+5. Scan QR code with authenticator app (Google Authenticator, Authy, etc.)
+6. Enter 6-digit code to verify
+7. Save backup codes in a secure location
+Future logins will require your password + 6-digit code
+
+Q: The website won't load. What should I try?
+A: Website loading issues:
+- Check if site is down: visit status.support.com
+- Try different browser or incognito/private mode
+- Clear browser cache: Ctrl+Shift+Delete (Cmd+Shift+Delete on Mac)
+- Disable browser extensions temporarily
+- Check internet connection
+- Try different network (mobile data vs WiFi)
+- Flush DNS cache: Open command prompt, type "ipconfig /flushdns"
+- Contact ISP if multiple sites aren't loading
+
+Q: How do I export my data?
+A: Data export process:
+1. Log in to your account
+2. Go to Settings > Data & Privacy > Export Data
+3. Select data types to export (files, contacts, settings, etc.)
+4. Choose format (ZIP, JSON, CSV)
+5. Click "Request Export"
+6. You'll receive email when export is ready (usually within 24 hours)
+7. Download link valid for 7 days
+Note: Large exports may take longer
+
+Q: Can I use the service offline?
+A: Limited offline functionality available:
+- Desktop app: Recent files cached locally, auto-sync when online
+- Mobile app: Enable offline mode in Settings for access to recent files
+- Web version: No offline access
+To enable offline access: Settings > Offline > Enable Offline Mode
+Offline changes sync automatically when connection restored
+
+Q: I'm experiencing audio/video quality issues in calls.
+A: Improve call quality:
+- Check internet speed (minimum 2 Mbps for HD calls)
+- Close bandwidth-heavy applications
+- Use wired connection instead of WiFi when possible
+- Update audio/video drivers
+- Check camera/microphone permissions in browser/OS settings
+- Use headphones to reduce echo
+- Test equipment: Settings > Audio/Video > Test Call
+- Reduce video quality if on slow connection
+
+Q: How do I recover deleted files?
+A: File recovery options:
+1. Check Trash/Recycle Bin: Files remain 30 days before permanent deletion
+2. Restore from Trash: Select file > Click "Restore"
+3. Version history: Right-click file > View versions > Restore previous version
+4. Contact support within 30 days for assistance
+5. Premium/Pro users have extended 90-day recovery period
+Note: Files deleted from Trash are permanently removed
+
+Q: What browsers are supported?
+A: Fully supported browsers (latest 2 versions):
+- Google Chrome (recommended)
+- Mozilla Firefox  
+- Microsoft Edge
+- Safari (macOS/iOS)
+- Opera
+
+Limited support:
+- Internet Explorer 11 (deprecated, upgrade recommended)
+
+For best experience, use Chrome or Firefox with hardware acceleration enabled.
+
+Q: How do I report a bug?
+A: Bug reporting:
+1. Go to Help > Report a Problem
+2. Describe the issue in detail
+3. Include steps to reproduce
+4. Attach screenshots/screen recordings if possible
+5. Note error messages
+6. Provide browser/app version, OS version
+7. Submit report
+Our team reviews reports within 24-48 hours. Critical bugs prioritized immediately.

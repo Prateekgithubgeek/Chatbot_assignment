@@ -1,0 +1,331 @@
+GENERAL FAQ AND PRODUCT INFORMATION
+
+Q: What is your service?
+A: We provide a comprehensive cloud-based platform for collaboration, file storage, and productivity. Our service includes file syncing, team collaboration tools, real-time editing, video conferencing, project management, and secure cloud storage. Available on web, desktop (Windows, Mac, Linux), and mobile (iOS, Android).
+
+Q: How do I get started?
+A: Getting started is simple:
+1. Sign up for a free account at our website
+2. Download apps for your devices (optional)
+3. Complete the onboarding tutorial (5 minutes)
+4. Invite team members or family (if applicable)
+5. Start uploading files and creating content
+6. Explore features through our Help Center
+Free trial includes all premium features for 14 days.
+
+Q: What makes your service different from competitors?
+A: Our unique advantages:
+- Military-grade end-to-end encryption
+- Unlimited version history
+- Real-time collaboration without lag
+- AI-powered smart organization
+- Cross-platform seamless sync
+- 99.9% uptime guarantee
+- No file size limits on Pro plans
+- Exceptional 24/7 customer support
+- Privacy-first approach (no data mining)
+- GDPR and HIPAA compliant
+
+Q: Is my data secure?
+A: Security is our top priority:
+- AES-256 encryption at rest
+- TLS 1.3 encryption in transit
+- End-to-end encryption available
+- Zero-knowledge architecture option
+- Regular security audits by third parties
+- SOC 2 Type II certified
+- Two-factor authentication
+- Advanced threat detection
+- Automatic malware scanning
+- Geographically distributed backup servers
+- Data center redundancy in multiple regions
+
+Q: Where is my data stored?
+A: Data storage details:
+- Primary data centers in USA, EU, and Asia-Pacific
+- You can choose your preferred region
+- Data replicated across 3+ locations for redundancy
+- Regular backups every 6 hours
+- All facilities are ISO 27001 certified
+- Physical security with 24/7 monitoring
+- Compliance with local data residency laws
+- Option for dedicated infrastructure (Enterprise plans)
+
+Q: What are your business hours?
+A: Support availability:
+- 24/7 support for Premium and Pro plans
+- Basic plan: Monday-Friday, 9 AM - 6 PM EST
+- Live chat: Available 24/7 for urgent issues
+- Email support: Response within 24 hours
+- Phone support: Premium/Pro only, 24/7
+- Community forum: Always available
+- Emergency hotline: 24/7 for critical issues
+
+Q: How do I contact customer support?
+A: Multiple support channels:
+- Live Chat: Click chat icon (bottom right)
+- Email: support@support.com
+- Phone: 1-800-SUPPORT (Premium/Pro)
+- Help Center: help.support.com
+- Community Forum: community.support.com
+- Twitter: @SupportHelp
+- Submit ticket: Account > Help > Submit Ticket
+Include account details and screenshots for faster resolution.
+
+Q: Do you offer training or tutorials?
+A: Comprehensive learning resources:
+- Video tutorials: Over 200 videos on YouTube channel
+- Interactive onboarding: Built into product
+- Webinars: Weekly live sessions (free)
+- Documentation: Detailed help articles
+- Templates and examples: Pre-built for quick start
+- Custom training: Available for Enterprise customers
+- Certification program: Become a certified power user
+- Community Q&A: Learn from other users
+Access all at learn.support.com
+
+Q: Can I try before I buy?
+A: Yes! Free trial options:
+- 14-day free trial of Premium features
+- No credit card required to start trial
+- Full access to all features
+- Unlimited users during trial
+- No obligation to continue
+- Easy upgrade anytime
+- Free plan available after trial (limited features)
+Start your trial at our website in under 2 minutes.
+
+Q: What integrations do you support?
+A: Extensive integration ecosystem:
+- Google Workspace (Drive, Calendar, Meet)
+- Microsoft 365 (Outlook, Teams, OneDrive)
+- Slack, Discord, Telegram
+- Zoom, Microsoft Teams
+- Salesforce, HubSpot
+- Trello, Asana, Monday.com
+- Dropbox, Box
+- GitHub, GitLab, Bitbucket
+- QuickBooks, Xero
+- Zapier (1000+ apps)
+- API for custom integrations
+Browse all integrations: marketplace.support.com
+
+Q: What file types do you support?
+A: We support virtually all file types:
+- Documents: PDF, DOC, DOCX, TXT, RTF, ODT
+- Spreadsheets: XLS, XLSX, CSV, ODS
+- Presentations: PPT, PPTX, KEY, ODP
+- Images: JPG, PNG, GIF, SVG, TIFF, RAW, PSD
+- Videos: MP4, MOV, AVI, MKV, WebM
+- Audio: MP3, WAV, FLAC, M4A, OGG
+- Archives: ZIP, RAR, 7Z, TAR
+- Code: All programming languages
+- 3D files: STL, OBJ, FBX
+- CAD files: DWG, DXF
+Preview available for 200+ file types directly in browser.
+
+Q: What are your file size limits?
+A: File size limits by plan:
+- Free plan: 50MB per file
+- Basic plan: 100MB per file
+- Premium plan: 2GB per file
+- Pro plan: 5GB per file
+- Enterprise plan: No limits
+Upload speed depends on your internet connection. We support chunked uploads for reliability with large files.
+
+Q: How much storage do I get?
+A: Storage allocation:
+- Free plan: 5GB
+- Basic plan: 100GB
+- Premium plan: 500GB
+- Pro plan: 2TB
+- Enterprise plan: Unlimited
+Additional storage available: $5/100GB per month
+Shared folders count toward owner's storage quota.
+
+Q: Can I access my files offline?
+A: Yes, offline access available:
+- Desktop app: Automatically caches recent files
+- Mobile app: Enable offline mode for specific files
+- Choose which folders to make available offline
+- Changes sync automatically when back online
+- Offline access up to 30 days without connection
+Configure: Settings > Offline > Select Folders
+
+Q: How do I share files with others?
+A: Multiple sharing options:
+1. Share Link: Generate link (public or password-protected)
+2. Email Invite: Send invitation to specific email addresses
+3. Team Sharing: Share with team members
+4. Public Gallery: Create public portfolio
+5. Embed: Embed files in websites
+
+Sharing permissions:
+- View only
+- Comment
+- Edit
+- Full access (owners only)
+
+Set expiration dates and download limits on shared links.
+
+Q: What collaboration features do you offer?
+A: Real-time collaboration tools:
+- Simultaneous multi-user editing
+- Live cursor tracking
+- Inline comments and annotations
+- Version history with restore
+- Task assignments
+- @mentions and notifications
+- Video/audio calls integrated
+- Screen sharing
+- Virtual whiteboard
+- Polls and voting
+- Real-time chat
+All changes save automatically and sync instantly.
+
+Q: How does version control work?
+A: Comprehensive version history:
+- Automatic versioning on every save
+- Unlimited versions (Pro/Enterprise)
+- 30-day history (Free/Basic), 90-day (Premium)
+- One-click restore to any previous version
+- Compare versions side-by-side
+- Version comments and labels
+- Scheduled snapshots
+- Retain major versions permanently
+Access: Right-click file > Version History
+
+Q: Do you have a mobile app?
+A: Yes, full-featured mobile apps:
+- iOS app: iPhone and iPad (iOS 13+)
+- Android app: Phones and tablets (Android 8+)
+- Full feature parity with desktop
+- Offline access capability
+- Camera upload (photos/documents)
+- Document scanning with OCR
+- Biometric authentication
+- Dark mode support
+- Widget support
+Download from Apple App Store or Google Play Store.
+
+Q: What security certifications do you have?
+A: Industry-standard certifications:
+- SOC 2 Type II
+- ISO 27001:2013
+- GDPR compliant
+- HIPAA compliant (available)
+- PCI DSS Level 1
+- Privacy Shield certified
+- CCPA compliant
+- FedRAMP authorized (in progress)
+View compliance reports: security.support.com
+
+Q: Can I customize the interface?
+A: Customization options:
+- Dark/light theme
+- Custom color schemes
+- Rearrange dashboard widgets
+- Custom shortcuts
+- Personalized sidebar
+- Layout preferences (grid/list)
+- Font size adjustment
+- Accessibility options
+- White-label (Enterprise)
+- Custom domain (Enterprise)
+Save preferences: Settings > Appearance
+
+Q: How do I provide feedback or request features?
+A: We value your input:
+- Feature requests: Click Feedback button in app
+- Vote on existing requests: feedback.support.com
+- Beta program: Join to test new features early
+- User surveys: Receive periodic invitations
+- Community forum: Discuss with other users
+- Direct contact: feedback@support.com
+Most requested features are prioritized in roadmap.
+
+Q: What happens if I exceed my storage limit?
+A: Storage limit handling:
+- Warning email at 80% capacity
+- Final warning at 95%
+- At 100%: Cannot upload new files
+- Existing files remain accessible
+- Can delete files to free space
+- Or upgrade to larger plan
+- Grace period: 14 days to resolve
+No files are automatically deleted.
+
+Q: How do I upgrade my plan?
+A: Easy upgrade process:
+1. Go to Settings > Subscription
+2. Click "Upgrade Plan"
+3. Select desired plan
+4. Enter payment information
+5. Confirm upgrade
+6. New features available immediately
+7. Prorated billing for current cycle
+Downgrade also available (takes effect next billing cycle).
+
+Q: What is your uptime guarantee?
+A: Service reliability:
+- 99.9% uptime guarantee
+- Less than 9 hours downtime per year
+- Scheduled maintenance: 2 AM - 4 AM EST
+- Advance notification for maintenance
+- Real-time status: status.support.com
+- Automatic failover to backup servers
+- SLA credits for Premium/Pro if downtime exceeds guarantee
+- Historical uptime: 99.97% (past 12 months)
+
+Q: Can I use this for my business?
+A: Absolutely! Business features:
+- Team collaboration tools
+- Admin controls and permissions
+- Centralized billing
+- User management
+- Audit logs
+- Compliance tools
+- API access
+- Custom integrations
+- Priority support
+- Dedicated account manager (Enterprise)
+- Custom contracts and MSA
+Over 50,000 businesses trust our platform.
+
+Q: Do you offer educational discounts?
+A: Yes, special pricing for education:
+- Students: 50% off Premium plans
+- Teachers: 50% off Premium plans
+- Schools/Universities: Custom pricing
+- Non-profits: 40% off all plans
+Verification required through SheerID or similar service.
+Apply: support.com/education
+
+Q: How do I cancel my subscription?
+A: Cancel anytime, no penalties:
+1. Settings > Subscription > Cancel
+2. Choose reason (optional feedback)
+3. Confirm cancellation
+4. Access continues until end of billing period
+5. Data remains accessible for 30 days
+6. Export data before deletion
+7. Can reactivate anytime
+No partial refunds for unused time on annual plans.
+
+Q: What languages do you support?
+A: Multi-language support:
+- Interface: 25+ languages
+- Documentation: 15 languages
+- Customer support: English, Spanish, French, German, Japanese, Mandarin
+- Auto-translate: Available for content
+- RTL support: Arabic, Hebrew
+Change language: Settings > Language
+
+Q: Can I use this for personal and business separately?
+A: Yes, multiple account options:
+- Create separate accounts for personal and business
+- Or use workspaces within single account
+- Switch between workspaces easily
+- Separate billing and storage
+- Different team members per workspace
+Workspaces available on Premium+ plans.

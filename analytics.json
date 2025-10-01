@@ -1,0 +1,16 @@
+{
+  "total_queries": 2,
+  "intent_accuracy": [],
+  "response_times": [
+    2.537547,
+    17.08513
+  ],
+  "satisfaction_scores": [],
+  "intent_distribution": {
+    "billing": 0,
+    "technical": 0,
+    "account": 1,
+    "complaints": 0,
+    "general": 1
+  }
+}

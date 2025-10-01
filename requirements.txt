@@ -1,0 +1,16 @@
+flask
+langchain
+langchain-community
+langchain-openai
+langchain-google-genai
+faiss-cpu
+sentence-transformers
+python-dotenv
+openai
+google-generativeai
+huggingface-hub
+tiktoken
+pydantic
+requests
+numpy
+transformers
