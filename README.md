@@ -13,8 +13,7 @@ A comprehensive AI-powered customer support chatbot built with LangChain, Flask,
 - [Testing Examples](#testing-examples)
 - [Analytics Dashboard](#analytics-dashboard)
 - [API Endpoints](#api-endpoints)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
+
 
 ## ✨ Features
 
