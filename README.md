@@ -194,13 +194,6 @@ cp .env.example .env
 
 Edit `.env` with your configuration:
 
-#### Option 1: Using OpenAI
-```bash
-MODEL_TYPE=openai
-OPENAI_API_KEY=sk-your-api-key-here
-OPENAI_MODEL=gpt-3.5-turbo
-SECRET_KEY=your-random-secret-key
-```
 
 #### Option 2: Using Google Gemini (Free)
 ```bash
@@ -212,16 +205,7 @@ SECRET_KEY=your-random-secret-key
 
 Get free API key: https://makersuite.google.com/app/apikey
 
-#### Option 3: Using Ollama (Local, Free)
-```bash
-MODEL_TYPE=ollama
-OLLAMA_MODEL=llama2
-OLLAMA_BASE_URL=http://localhost:11434
-SECRET_KEY=your-random-secret-key
-```
 
-First install Ollama: https://ollama.ai/
-Then run: `ollama pull llama2`
 
 ## 🚀 Usage
 
@@ -429,110 +413,10 @@ Clear conversation history
 }
 ```
 
-## 🔧 Troubleshooting
 
-### Issue: "FAISS index not found"
-**Solution:** Run `python ingest_documents.py` to create the index
 
-### Issue: "API key not found"
-**Solution:** Check your `.env` file has the correct API key for your chosen model
 
-### Issue: "Module not found" errors
-**Solution:** Ensure virtual environment is activated and run `pip install -r requirements.txt`
 
-### Issue: Slow response times
-**Solutions:**
-- Use faster model (e.g., gpt-3.5-turbo instead of gpt-4)
-- Reduce chunk size in retrieval
-- Use local Ollama model
-- Check internet connection
-
-### Issue: Port already in use
-**Solution:** Change port in `app.py`:
-```python
-app.run(debug=True, port=5001)  # Use different port
-```
-
-### Issue: Ollama not responding
-**Solutions:**
-- Ensure Ollama is running: `ollama serve`
-- Check base URL in `.env`
-- Verify model is downloaded: `ollama list`
-
-## 🎨 Customization
-
-### Adding New Knowledge Base Documents
-1. Create a new `.txt` file in `knowledge_base/`
-2. Add your content
-3. Run `python ingest_documents.py` again
-4. Restart the Flask app
-
-### Modifying Intent Patterns
-Edit the `INTENT_PATTERNS` dictionary in `app.py`:
-```python
-INTENT_PATTERNS = {
-    'billing': [
-        r'\b(bill|invoice|payment)\b',
-        # Add more patterns
-    ],
-    'custom_intent': [
-        r'\b(your|patterns|here)\b',
-    ]
-}
-```
-
-### Changing UI Theme
-Edit the CSS in `templates/index.html`:
-```css
-/* Change color scheme */
-background: linear-gradient(135deg, #YOUR_COLOR1 0%, #YOUR_COLOR2 100%);
-```
-
-### Adjusting Retrieval Settings
-In `app.py`, modify:
-```python
-vectorstore.as_retriever(search_kwargs={"k": 5})  # Return top 5 documents
-```
-
-## 🚀 Deployment
-
-### Deploy to Heroku
-```bash
-# Install Heroku CLI
-heroku login
-heroku create your-app-name
-git push heroku main
-heroku config:set OPENAI_API_KEY=your-key
-```
-
-### Deploy to Railway
-1. Connect GitHub repository
-2. Add environment variables in dashboard
-3. Deploy automatically
-
-### Deploy to AWS/GCP
-Use Docker or traditional deployment methods. Ensure environment variables are set securely.
-
-## 📝 License
-
-This project is open source and available under the MIT License.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📧 Support
-
-For issues and questions:
-- Create an issue on GitHub
-- Email: your-email@example.com
-
-## 🙏 Acknowledgments
-
-- LangChain for the amazing framework
-- OpenAI, Google, and Ollama for LLM access
-- HuggingFace for embeddings
-- Facebook AI for FAISS
 
 ---
 
