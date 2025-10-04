@@ -1,0 +1,210 @@
+ACCOUNT MANAGEMENT FAQ
+
+Q: How do I create an account?
+A: Creating an account is easy and free:
+1. Visit our website and click "Sign Up"
+2. Enter your email address and create a strong password
+3. Verify your email by clicking the link sent to your inbox
+4. Complete your profile with basic information
+5. Choose a subscription plan or start with free trial
+6. Start using the service immediately
+No credit card required for free trial!
+
+Q: I forgot my password. How do I reset it?
+A: Password reset process:
+1. Go to login page and click "Forgot Password"
+2. Enter your registered email address
+3. Check your email for reset link (arrives within 5 minutes)
+4. Click the link and create a new strong password
+5. Password must be 8+ characters with letters, numbers, and symbols
+6. Log in with your new password
+If you don't receive the email, check spam folder or contact support.
+
+Q: How do I change my password?
+A: To change your password while logged in:
+1. Go to Settings > Security > Change Password
+2. Enter your current password
+3. Enter your new password (must meet security requirements)
+4. Confirm new password
+5. Click "Update Password"
+6. You'll be logged out and need to sign in with new password
+7. All other active sessions will be terminated for security
+
+Q: Can I change my email address?
+A: Yes, you can update your email:
+1. Log in to your account
+2. Go to Settings > Account > Email Address
+3. Enter your new email address
+4. Enter your password to confirm
+5. Verification email sent to new address
+6. Click verification link within 24 hours
+7. New email becomes your login username
+Old email remains accessible for 30 days as backup login method.
+
+Q: How do I delete my account?
+A: Account deletion is permanent:
+1. Go to Settings > Account > Delete Account
+2. Review what will be deleted (all data, files, settings)
+3. Download any data you want to keep first
+4. Enter your password to confirm
+5. Choose reason for leaving (optional)
+6. Click "Permanently Delete Account"
+7. Confirmation email sent
+8. 30-day grace period before permanent deletion
+You can restore your account within 30 days by logging in.
+
+Q: How do I update my profile information?
+A: Update your profile:
+1. Log in and go to Settings > Profile
+2. Edit any of the following:
+   - Display name
+   - Profile picture
+   - Bio/About
+   - Phone number
+   - Location
+   - Time zone
+   - Language preference
+3. Click "Save Changes"
+Changes reflect immediately across all devices.
+
+Q: Can I have multiple accounts?
+A: Yes, you can create multiple accounts with different email addresses. However, each account requires separate subscription. Family and Team plans allow multiple users under one account for better cost efficiency. Switch between accounts using the account switcher in the top-right menu.
+
+Q: How do I set up two-factor authentication (2FA)?
+A: Secure your account with 2FA:
+1. Settings > Security > Two-Factor Authentication
+2. Click "Enable 2FA"
+3. Choose authentication method:
+   - Authenticator app (Google Authenticator, Authy) - recommended
+   - SMS text message
+   - Email code
+4. Follow setup instructions for chosen method
+5. Enter verification code to confirm
+6. Save backup codes in secure location
+7. 2FA now required for all future logins
+Backup codes can be used if you lose access to primary 2FA method.
+
+Q: What should I do if my account is hacked?
+A: If you suspect unauthorized access:
+1. Change your password immediately
+2. Enable two-factor authentication
+3. Review recent activity: Settings > Security > Login History
+4. Sign out all other sessions: Settings > Security > Active Sessions > Sign Out All
+5. Check connected apps: Settings > Security > Connected Apps
+6. Revoke access to suspicious apps
+7. Contact support immediately
+8. Review account changes and report unauthorized activity
+9. Change passwords on other services if you reused passwords
+
+Q: How do I manage connected applications?
+A: Control third-party app access:
+1. Go to Settings > Security > Connected Applications
+2. View list of apps with access to your account
+3. Review permissions for each app
+4. Revoke access: Click app > "Revoke Access"
+5. Only authorize trusted applications
+6. Regularly review and remove unused connections
+Connected apps can access data based on granted permissions.
+
+Q: Can I merge multiple accounts?
+A: Account merging is not automated but we can help:
+1. Contact support at support@support.com
+2. Provide details of both accounts
+3. Specify which account to keep as primary
+4. Our team will manually migrate data (3-5 business days)
+5. Secondary account will be closed
+Note: Some data types may not be mergeable. Both accounts must belong to you.
+
+Q: How do I change my username?
+A: Username changes:
+1. Settings > Account > Username
+2. Enter new username (must be unique)
+3. Check availability
+4. Confirm change
+5. Update takes effect immediately
+Note: You can only change username once every 30 days. Your old username becomes available for others after 90 days.
+
+Q: What information do you store about my account?
+A: We store:
+- Account credentials (email, encrypted password)
+- Profile information (name, picture, bio)
+- Usage data (login times, IP addresses, device info)
+- Files and content you upload
+- Billing information (encrypted payment details)
+- Communication preferences
+- Security settings
+View complete data: Settings > Privacy > Download My Data
+We comply with GDPR, CCPA, and other privacy regulations.
+
+Q: How do I manage notification preferences?
+A: Customize notifications:
+1. Settings > Notifications
+2. Choose notification types:
+   - Email notifications
+   - Push notifications (mobile/desktop)
+   - In-app notifications
+3. Enable/disable specific categories:
+   - Account activity
+   - Billing updates
+   - Product updates
+   - Marketing communications
+   - Security alerts (cannot be disabled)
+4. Set quiet hours for non-urgent notifications
+5. Choose notification frequency (real-time, daily digest, weekly)
+
+Q: Can I temporarily deactivate my account?
+A: Yes, account deactivation available:
+1. Settings > Account > Deactivate Account
+2. Choose deactivation period (1 week to 6 months)
+3. Confirm deactivation
+4. Your profile becomes invisible
+5. You cannot access account during deactivation
+6. Billing continues (unless you cancel subscription first)
+7. Reactivate anytime by logging in
+This is useful for breaks without losing data.
+
+Q: How do I add additional users to my account?
+A: Add users (Team/Family plans only):
+1. Settings > Team Management > Add Member
+2. Enter new user's email address
+3. Choose role: Admin, Member, or Viewer
+4. Set permissions
+5. Click "Send Invite"
+6. User receives email invitation
+7. They create password and join your team
+Manage users: Settings > Team Management > Members
+
+Q: What are the different user roles?
+A: Available roles:
+- Owner: Full control, billing access, cannot be removed
+- Admin: Manage users, settings, content (no billing access)
+- Member: Create and edit own content, limited settings
+- Viewer: Read-only access, no editing
+- Guest: Temporary access, limited features, auto-expires
+
+Customize permissions for each role in Settings > Team Management > Roles.
+
+Q: How do I enable login notifications?
+A: Get alerted for account access:
+1. Settings > Security > Login Notifications
+2. Enable "Email me on new login"
+3. Enable "Alert for unrecognized devices"
+4. Enable "Alert for login from new location"
+5. Configure notification method (email, SMS, push)
+Receive instant alerts if someone logs into your account from new device or location.
+
+Q: Can I export my account data?
+A: Yes, export your data anytime:
+1. Settings > Privacy > Export Data
+2. Select data categories:
+   - Profile information
+   - Files and documents
+   - Messages and conversations
+   - Settings and preferences
+   - Activity history
+3. Choose format (JSON, CSV, ZIP)
+4. Click "Request Export"
+5. Processing takes 1-24 hours depending on data size
+6. Download link sent to your email
+7. Link expires after 7 days
+This complies with data portability rights under GDPR and CCPA.
