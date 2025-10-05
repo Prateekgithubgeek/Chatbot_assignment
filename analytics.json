@@ -1,5 +1,5 @@
 {
-  "total_queries": 6,
+  "total_queries": 7,
   "intent_accuracy": [],
   "response_times": [
     2.537547,
@@ -7,13 +7,14 @@
     26.598617,
     11.426698,
     4.410845,
-    4.701416
+    4.701416,
+    4.310849
   ],
   "satisfaction_scores": [],
   "intent_distribution": {
     "billing": 1,
     "technical": 0,
-    "account": 1,
+    "account": 2,
     "complaints": 0,
     "general": 4
   }
